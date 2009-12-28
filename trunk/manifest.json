@@ -6,7 +6,7 @@
 	"48": "res/icon48.png",
     "128": "res/icon128.png" 
   },
-  "update_url": "http://chrome-syntax-highlighter.googlecode.com/files/updates.xml",
+  "update_url": "http://chrome-syntax-highlighter.googlecode.com/svn/trunk/res/updates.xml",
   "content_scripts": [
     {
       "matches": ["http://*/*", "https://*/*", "ftp://*/*", "file://*/*"],
